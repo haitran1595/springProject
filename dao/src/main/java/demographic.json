@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Leena",
+        "age": "24",
+        "major": "Computer Science"  
+    },
+    {
+        "name": "Henrey",
+        "age": "21",
+        "major": "Computer Science"
+    },
+    {
+        "name": "Merry",
+        "age": "22",
+        "major": "Medical"
+    },
+    {
+        "name": "Caleb",
+        "age": "29",
+        "major": "Physical"
+    },
+    {
+        "name": "Jacob",
+        "age": "25",
+        "major": "App Development"
+    }
+]
